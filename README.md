@@ -9,7 +9,7 @@
 ## Project Final Week 9 - Statistical Analysis project
 In this repository, there are : 
 - the dataset I worked on (.csv files) and its description (.txt files)
-- my Python code (.ipynb file)
+- my Python code (.ipynb files)
 - the final presentation (.pptx file)
 
 
