@@ -22,6 +22,7 @@ people in order to build a predictive model on readmissions using supervised mac
 File n°2 :
 * Data cleaning, removing missing and useless values
 * Data manipulation, managing caterorical features
+
 File n°4 :
 * Features selection + clustering eliminated features
 * Model building on selected features + previous clusters
@@ -30,5 +31,7 @@ File n°4 :
 
 ## Links
 [Repository]https://github.com/MarieNav/Prediction_Diabetics_Readmission
+
 [Dataset]http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
+
 [Presentation]https://docs.google.com/presentation/d/1t7VvmRO8KMysmb2Q87lwcB1oe5_FL_c8
