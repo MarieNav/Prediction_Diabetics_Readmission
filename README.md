@@ -21,4 +21,4 @@ about hospitalisation of diabetics people in order to build a predictive model.
 ## Links
 [Repository]https://github.com/MarieNav/Prediction_Diabetics_Readmission
 [Dataset]http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
-[Presentation]https://docs.google.com/presentation/d/1a564roor-1jStGJeufwu0KoJY76D8v7C
+[Presentation]https://docs.google.com/presentation/d/1t7VvmRO8KMysmb2Q87lwcB1oe5_FL_c8
