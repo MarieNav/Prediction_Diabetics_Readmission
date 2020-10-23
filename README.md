@@ -29,6 +29,10 @@ File n°4 :
 * Model evaluation
 
 
+## Conclusion
+The best performing model is obtained using Gradient Boosting Classifier (with AUC = 0.66)
+
+
 ## Links
 [Repository]https://github.com/MarieNav/Prediction_Diabetics_Readmission
 
