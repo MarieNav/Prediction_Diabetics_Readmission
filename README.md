@@ -38,4 +38,4 @@ The best performing model is obtained using Gradient Boosting Classifier (with A
 
 [Dataset]http://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
 
-[Presentation]https://docs.google.com/presentation/d/1OF1uSdW5fz6kzxdRlb14u03SePmzUvIg
+[Presentation]https://docs.google.com/presentation/d/1EgPEC7m58k2SGDwurP62gz93J7YHOWUN
