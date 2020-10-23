@@ -15,7 +15,7 @@ In this repository, there are :
 
 ## Project Description
 Using all advanced python ressources we learnt during this bootcamp, I worked on a dataset about hospitalisation of diabetics
-people in order to build a predictive model on readmissions using supervised machine learning algorithms (classification).
+people in order to build a predictive model on readmissions, using supervised machine learning algorithms (classification).
 
 
 ## Process
