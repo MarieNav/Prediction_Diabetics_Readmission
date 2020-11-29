@@ -14,14 +14,14 @@ In this repository, there are :
 
 
 ## Project Description
-Using all advanced python ressources we learnt during this bootcamp, I worked on a dataset about hospitalisation of diabetics
+Using all advanced python resources we learnt during this bootcamp, I worked on a dataset about hospitalisation of diabetics
 people in order to build a predictive model on readmissions, using supervised machine learning algorithms (classification).
 
 
 ## Process
 File n°2 :
 * Data cleaning, removing missing and useless values
-* Data manipulation, managing caterorical features
+* Data manipulation, managing categorical features
 
 File n°4 :
 * Features selection + clustering eliminated features
